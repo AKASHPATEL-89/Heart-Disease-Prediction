@@ -51,7 +51,7 @@ Heart-Disease-Prediction/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Heart-Disease-Prediction.git
+git clone https://github.com/AKASHPATEL-89/Heart-Disease-Prediction.git
 ```
 
 ### 2️⃣ Open the Project Folder
