@@ -473,9 +473,9 @@ Possible future improvements include:
 
 Add screenshots of your deployed Streamlit application here:
 
-```markdown
+
 ![Application Screenshot](screenshot.png)
-```
+
 
 You can add screenshots such as:
 
